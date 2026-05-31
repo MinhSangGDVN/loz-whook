@@ -3,7 +3,8 @@
 A lightweight, handy Python library that monitors system errors (tracebacks), tracks events (custom logs), and sends instant notifications directly to your **Discord Webhook** using beautiful Embeds. Perfect for monitoring when developing Discord Bots or background applications (Cronjobs, VPS, etc.).
 
 Developed by **MinhSangGD**
- 📧 Email: [minhsanggd@mscrew.io.vn](mailto:minhsanggd@mscrew.io.vn)  
+
+📧 Email: [minhsanggd@mscrew.io.vn](mailto:minhsanggd@mscrew.io.vn)  
 🌐 GitHub: [https://github.com/MinhSangGD/loz-whook](https://github.com/MinhSangGD/loz-whook)
 
 ---
