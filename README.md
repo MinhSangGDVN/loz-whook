@@ -36,7 +36,7 @@ LOZ_WHOOK_URL=https://discord.com/api/webhooks/xxxxxx/xxxxxx
 LOZ_WHOOK_NAME=System Monitor Bot
 
 # (OPTIONAL) Direct link to the avatar image (.png, .jpg). Defaults to webhook's original avatar if left blank
-LOZ_WHOOK_AVATAR=[https://i.imgur.com/example.png](https://i.imgur.com/example.png)
+LOZ_WHOOK_AVATAR=https://i.imgur.com/example.png
 
 ```
 ## 🚀 Usage Guide
